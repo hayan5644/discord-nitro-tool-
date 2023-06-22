@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Pics/title.png" alt="Title">
 </div>
-# Hayyan's nitro Tool
+# Hayyans nitro Tool
 
 This tool allows you to enjoy the benefits of Discord Nitro for free. By following the simple steps outlined below, you can download and set up the tool on your computer.
 
