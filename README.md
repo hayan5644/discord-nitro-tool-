@@ -8,7 +8,7 @@
 
 This tool allows you to enjoy the benefits of Discord Nitro for free. By following the simple steps outlined below, you can download and set up the tool on your computer.
 
-![ss1](Pics/screenshot1.png)
+![ss1](Pics/ss.png)
 
 
 ## Installation
