@@ -1,4 +1,4 @@
-![Pics](title.png)
+![Pics](Pics/title.png)
 
 # Discord Nitro Free Replacement Tool
 
