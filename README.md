@@ -24,6 +24,11 @@ This tool allows you to enjoy the benefits of Discord Nitro for free. By followi
 7. Save the `links.txt` file.
 8. Run the `STICKER GENERATOR` file.
 9. Your newly added stickers will appear in the tool (note: you may need to restart your computer to see them, but efforts are underway to address this issue).
+### Features
+
+- Recently Used Stickers: The tool displays the recently used stickers at the top, making them easily accessible for quick reuse.
+
+
 
 Please note that the usage of this tool may not be in compliance with Discord's terms of service. Use it responsibly and at your own risk.
 
