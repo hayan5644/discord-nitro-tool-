@@ -8,18 +8,18 @@
 
 This tool allows you to enjoy the benefits of Discord Nitro for free. By following the simple steps outlined below, you can download and set up the tool on your computer.
 
-![ss1](Pics/ss.png)
+![ss1](Pics/ss1.png)
 
 
 ## Installation
 
 1. Download the latest release of the tool from the repository.
 2. Locate the downloaded file and run `setup.bat`.
-3. Restart your computer to ensure the tool is properly installed.
+3. After installation the installation folder will appear just run the `sticker_tool.exe` (needed for the first time only)
 
 ## Usage
 
-1. After restarting your PC, press `Ctrl+Alt+S`.
+1.  press `Ctrl+Alt+S`.
 2. The tool's main window will pop up, providing you with various options.
 
 ### Adding Stickers
@@ -32,7 +32,7 @@ This tool allows you to enjoy the benefits of Discord Nitro for free. By followi
 6. Paste the image links into the `links.txt` file, each on a new line.
 7. Save the `links.txt` file.
 8. Run the `STICKER GENERATOR` file.
-9. Your newly added stickers will appear in the tool (note: you may need to restart your computer to see them, but efforts are underway to address this issue).
+9. Your newly added stickers will appear in the tool after closing it and repressing the shortcut again
 
 Please note that the usage of this tool may not be in compliance with Discord's terms of service. Use it responsibly and at your own risk.
 
